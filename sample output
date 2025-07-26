@@ -3,4 +3,39 @@
 2. View Students
 3. Delete Student
 4. Exit
-Choose an option:
+Choose an option:1
+
+-- Add New Student --
+Enter name: mahima
+Enter roll no: 27
+Enter course: ds
+Student added successfully!
+
+=== Student Management System ===
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Choose an option: 2
+
+-- All Students --
+1. Name: mahima, Roll No: 27, Course: ds
+
+=== Student Management System ===
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Choose an option: 3
+
+-- Delete Student --
+Enter roll number to delete: 27
+Student removed successfully!
+
+=== Student Management System ===
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Choose an option: 4
+Exiting... Thank you!
