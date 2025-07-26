@@ -6,9 +6,9 @@
 Choose an option:1
 
 -- Add New Student --
-Enter name: mahima
+Enter name: jhon
 Enter roll no: 27
-Enter course: ds
+Enter course: computer science
 Student added successfully!
 
 === Student Management System ===
@@ -19,7 +19,7 @@ Student added successfully!
 Choose an option: 2
 
 -- All Students --
-1. Name: mahima, Roll No: 27, Course: ds
+1. Name: john, Roll No: 27, Course: computer science
 
 === Student Management System ===
 1. Add Student
