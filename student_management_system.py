@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import sqlite3
 
-# --- Database Setup ---
+# Database Setup 
 conn = sqlite3.connect("students.db")
 cur = conn.cursor()
 cur.execute("""
@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS students (
 """)
 conn.commit()
 
-# --- Functions ---
+# Functions 
 def add_record():
     data = (name_var.get(), contact_var.get(), email_var.get(),
             gender_var.get(), dob_var.get(), stream_var.get())
@@ -96,3 +96,4 @@ tree.place(x=350, y=30, width=520, height=230)
 view_records()
 
 root.mainloop()
+
