@@ -8,6 +8,14 @@
 A clean, beginner–intermediate **Student Management System** built with **Tkinter (GUI)** and **SQLite (storage)**.  
 Supports **Add**, **View**, and **Delete** student records with a simple, responsive UI.
 
+## 🗂 Project Versions
+- `student_sqlite.py` → Uses SQLite (lightweight, no setup required).
+- `student_mysql.py` → Uses MySQL (enterprise-level database).
+
+## ⚡ MySQL Setup
+1. Install connector:
+   ```bash
+   pip install mysql-connector-python
 
 ## 📦 Prerequisites
 - Python 3.x  
